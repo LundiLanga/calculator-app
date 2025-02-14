@@ -18,8 +18,9 @@ This project is a simple calculator implemented using Test-Driven Development (T
 Wrote unit tests before implementing the function.
 Ensured all test cases pass successfully.
 
-![AddTwoNumbersTest](https://github.com/user-attachments/assets/cfb63796-ba34-4fe2-880f-b91fa88dd963)
-![AddMultipleNumbersTestS](https://github.com/user-attachments/assets/306d70a2-97fb-4cc6-852e-b95bddd2caec)
+![addTwoNumbersTestS](https://github.com/user-attachments/assets/f9e18a38-a96e-44c2-9433-74d1cb76726f)
+![addTwoNumbersTest](https://github.com/user-attachments/assets/163abc83-ab37-4b40-a290-18bc9c162d37)
+
 
 ### 2. Addition of Multiple Numbers (addMultipleNumbers)
 Extended the addition function to support multiple integers:
@@ -28,9 +29,8 @@ Extended the addition function to support multiple integers:
 - addMultipleNumbers(-1, -1);  // Returns -2
 Function does not accept arrays or lists, only individual numbers.
 
-![AddMultipleNumbersTest](https://github.com/user-attachments/assets/d93b1a87-bcc1-4bf2-84f9-982432e058df)
-
-![AddTwoNumbersTestS](https://github.com/user-attachments/assets/6d63f094-499b-4a70-8ae0-c62e8d42e7bd)
+![addMultipleNumbersTestS](https://github.com/user-attachments/assets/a202d3c9-63de-4400-88c4-32fc9634f092)
+![addMultipleNumbersTest](https://github.com/user-attachments/assets/49dc9c46-af13-4861-acdc-a753cfc6044c)
 
 ### 3. Multiplication Function (multiplyTwoNumbers)
 Implemented a function to multiply two integers:
@@ -39,9 +39,8 @@ Implemented a function to multiply two integers:
 Wrote unit tests before implementing the function.
 Ensured all test cases pass successfully.
 
-![MultiplyTwoNumbersTest](https://github.com/user-attachments/assets/8229f56d-0b23-419f-8a0e-df67ce451505)
-
-![MultiplyTwoNumbersTestS](https://github.com/user-attachments/assets/baefbbb9-cb2d-4c42-af80-6679f058f538)
+![multiplyTwoNumbersTestS](https://github.com/user-attachments/assets/70f441fe-d4d3-4bbb-ae1f-d8e171047ed1)
+![multiplyTwoNumbersTest](https://github.com/user-attachments/assets/d46d705d-1116-462e-918e-41beffd7f3f0)
 
 ### 4. Multiplication of Multiple Numbers (multiplyMultipleNumbers)
 Extended the multiplication function to support multiple integers:
@@ -50,9 +49,8 @@ Extended the multiplication function to support multiple integers:
 - multiplyMultipleNumbers(-1, 3);  // Returns -3
 Ensured all test cases pass successfully.
 
-![MultiplyMultipleNumbersTest](https://github.com/user-attachments/assets/8a541d51-88a6-4e89-87cb-86c038d3849c)
-
-![MultiplyMultipleNumbersTestS](https://github.com/user-attachments/assets/79fa4eb0-e5be-4a4d-9f5e-6b708bea408d)
+![multiplyMultipleNumbersTestS](https://github.com/user-attachments/assets/616c342f-22a8-4d40-8fae-a4a02da84bad)
+![multiplyMultipleNumbersTest](https://github.com/user-attachments/assets/d8e2b34e-e8f8-4dcd-81b9-e6e91c7985a2)
 
 ### How to Run the Project
 
